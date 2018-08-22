@@ -37,5 +37,29 @@
     <Text Include="level_2.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="level_3.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="level_4.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="level_5.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="level_6.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="level_7.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="level_8.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="level_9.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="level_10.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
